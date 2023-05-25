@@ -1,0 +1,12 @@
+[submodule "src/hugo-theme-cleanwhite"]
+	path = src/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite/
+[submodule "src/themes/hugo-theme-cleanwhite"]
+	path = src/themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite/
+[submodule "themes/anatole"]
+	path = themes/anatole
+	url = https://github.com/lxndrblz/anatole
+[submodule "src/themes/anatole"]
+	path = src/themes/anatole
+	url = https://github.com/lxndrblz/anatole
